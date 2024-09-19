@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-burorenaena-zako-1
+    name: google-burorenaena-zako-2
     env: python
     region: Oregon
     plan: free
